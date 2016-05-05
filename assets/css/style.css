@@ -95,6 +95,7 @@ body{
 	padding-bottom: 30px;
 }
 #login{
+	padding-top : 50px;
 	width:400px;
 	margin:0 auto;
 	transition:opacity 1s;
